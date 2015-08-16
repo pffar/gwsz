@@ -6,7 +6,7 @@ This project aims to provide GPS enabled mobile device (such as a smart phone) u
 
 Functionalities:
 
-* Presentation of maps(images)
+* Presentation of maps (images)
 * Positioning: locate user and mark the position on maps
 * Tracking: record track, and display tracks on maps
 * Importing and exporting track/route files. Supported file formats are GPX, KML and KMZ
