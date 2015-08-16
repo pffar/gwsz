@@ -10,7 +10,7 @@ Functionalities:
 * Positioning: locate user and mark the position on maps
 * Tracking: record track, and display tracks on maps
 * Importing and exporting track/route files. Supported file formats are GPX, KML and KMZ
-* Bearing: display bearing, with magnetic declination compensation. Orient maps with magnetic declination taken into consideration
+* Bearing: display bearing. Provide a compass, which may be magnetic declination compensated. Orient maps with magnetic north up or true north up
 
 
 [View the plan](plan.md)
